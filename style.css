@@ -15,12 +15,30 @@ h1{
   font-size: 30px;
 }
 
+p {
+  font-size: 18px;
+  font-style: italic;
+  font-family: sans;
+}
+
+ul {
+  font-size: 16px;
+  list-style-type: square;
+  font-family: bold;
+}
+
+img {
+  border: 2px solid navy;
+  border-radius: 10px;
+}
+
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://cdn.glitch.global/1d2bfffd-da33-4ed1-afed-a471bc5beecf/fan_coral_yellow_IS_900.jpg?v=1739390690610");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
 }
+
 
 
 
